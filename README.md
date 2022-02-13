@@ -13,5 +13,6 @@ Abaixo encontrará as referências à outros projetos e dependências que utiliz
 
 * [k6](https://k6.io/docs/getting-started/installation/#docker) - O k6 é a ferramenta de load tests que vamos utilizar, e de preferência deve ser instalado via docker. 
 
+* [Docker-k6-grafana-influxDB](https://github.com/luketn/docker-k6-grafana-influxdb) - Repositório que permite configurar o influxdb como datasource para o K6 incluindo a visualização via Grafana.
 
 
