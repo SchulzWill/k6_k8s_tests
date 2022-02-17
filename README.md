@@ -1,6 +1,6 @@
 # k6_k8s_tests
 
-Este repositório contém o material do curso [Testes de Performance em Aplicações Modernas](http://url_do_curso).
+Este repositório contém o material do curso [Testes de Performance com o K6](https://treinamento.beelab.com.br/teste-de-performance-com-k6).
 
 ## Dependências
 Abaixo encontrará as referências à outros projetos e dependências que utilizamos no curso. 
